@@ -11,5 +11,8 @@ h2{
 	color:grey;
 }
 div {
-	background-color: lightgreen
+	background-color: lightgreen;
+	text-align:center;
+	float: center
+
 }
