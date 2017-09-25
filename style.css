@@ -10,9 +10,34 @@ h1{
 h2{
 	color:grey;
 }
-div {
+a {
+	text-decoration: none;
+
+}
+ul {
+	list-style-type:none;
+	
+}
+.container {
 	background-color: lightgreen;
 	text-align:center;
-	float: center
+	float: left;
 
+
+
+}
+.button {
+	border: none;
+	padding: 15px 32px;
+	background-color: #4CAF50;
+
+}
+.menu {
+	background-color: darkgreen;
+	width:20%;
+	text-align: left;
+}
+.camera {
+
+	
 }
