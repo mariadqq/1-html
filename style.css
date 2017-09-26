@@ -12,17 +12,21 @@ h2{
 }
 a {
 	text-decoration: none;
+	
 
 }
 ul {
 	list-style-type:none;
-	
+
 }
 .container {
 	background-color: lightgreen;
 	text-align:center;
-	float: left;
+	
+}
+.camera {
 
+	width:640px;height:480px;
 
 
 }
@@ -36,8 +40,6 @@ ul {
 	background-color: darkgreen;
 	width:20%;
 	text-align: left;
+	float: left;
 }
-.camera {
 
-	
-}
